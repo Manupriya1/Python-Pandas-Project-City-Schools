@@ -1,3 +1,6 @@
+<img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114342502-ca416f00-9b10-11eb-87e8-85015d0b87af.png">
+<img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114342528-d3cad700-9b10-11eb-999f-e36b4fa67cee.png">
+<img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114342591-ee04b500-9b10-11eb-82f3-be2e69852f18.png">
 # UCB-Python-Pandas-Project
 ## School district analysis with Python using Jupyter Notebook
 
