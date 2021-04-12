@@ -23,10 +23,11 @@ The purpose of the analysis is:
 ### How is the district summary affected?
     
 As we can see overall passing score has dropped from ~80% to ~64%. That explains that many dropped students did pass in both math and reading. But their scores in math and reading were not very high but close to passing score - as the score in math and reading did not change much.
-    
-    <img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114343102-0a552180-9b12-11eb-99ff-74946732da0c.png">
-    
-    <img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114342528-d3cad700-9b10-11eb-999f-e36b4fa67cee.png">
+- With Thomas 9th grade
+  <img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114343214-4daf9000-9b12-11eb-9ba2-fb9f0e9e74a0.png">
+- Without Thomas 9th grade
+<img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114343218-50aa8080-9b12-11eb-9bf4-d6c4e0621929.png">
+
 
     
 How is the school summary affected?
