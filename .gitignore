@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+pics/
+School_District_Analysis/
+
