@@ -1,6 +1,3 @@
-<img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114342502-ca416f00-9b10-11eb-87e8-85015d0b87af.png">
-<img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114342528-d3cad700-9b10-11eb-999f-e36b4fa67cee.png">
-<img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114342591-ee04b500-9b10-11eb-82f3-be2e69852f18.png">
 # UCB-Python-Pandas-Project
 ## School district analysis with Python using Jupyter Notebook
 
@@ -24,6 +21,12 @@ The purpose of the analysis is:
 ## Results: The effect of dropping 9th grade score from Thomas high school is as follows:
 
     ### How is the district summary affected?
+    
+    As we can see overall passing score has dropped from ~80% to ~64%. That explains that many dropped students did pass in both math and reading. But their scores in math and reading were not very high but close to passing score - as the score in math and reading did not change much.
+    <img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114343102-0a552180-9b12-11eb-99ff-74946732da0c.png">
+    
+    <img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114342528-d3cad700-9b10-11eb-999f-e36b4fa67cee.png">
+
     
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
