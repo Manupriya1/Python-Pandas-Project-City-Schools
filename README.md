@@ -14,7 +14,7 @@ The purpose of the analysis is:
     -The average math score received by students in each grade level at each school
     -The average reading score received by students in each grade level at each school
     -School performance based on the budget per student
--   -School performance based on the school size 
+    -School performance based on the school size 
     -School performance based on the type of school
 
 
@@ -28,16 +28,22 @@ As we can see below, there is not much difference between the results. That indi
 <img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114343218-50aa8080-9b12-11eb-9bf4-d6c4e0621929.png">
 
 ### How is the school summary affected?
+All the schools except Thomas High School remain unaffected. We can see the effect on Thomas high school in the picture below. 
+
 <img width="876" alt="school district" src="https://user-images.githubusercontent.com/69255270/114345425-8c474980-9b16-11eb-913d-9ad0f248d1fb.png">
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+As we can see in the picture above the overall score includig math and readinf score for Thomas High School has improved.  
+
+
+### How does replacing the ninth-grade scores affect the following:
+   - Math and reading scores by grade: The scores have improved for Thomas High School.
+   - Scores by school spending: Remained unaffected
+   - Scores by school size:  Remained unaffected
+   
 ## Summary: 
 Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
-1. 
+1. The percentage of math score went up
+2. the percentage of reading score went up
 
