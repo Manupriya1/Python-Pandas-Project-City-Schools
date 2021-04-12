@@ -21,21 +21,23 @@ The purpose of the analysis is:
 ## Results: The effect of dropping 9th grade score from Thomas high school is as follows:
 
 ### How is the district summary affected?
-    
-As we can see overall passing score has dropped from ~80% to ~64%. That explains that many dropped students did pass in both math and reading. But their scores in math and reading were not very high but close to passing score - as the score in math and reading did not change much.
+As we can see below, there is not much difference between the results. That indicates the dropped score might not be alterted. 
 - With Thomas 9th grade
   <img width="876" alt="district1" src="https://user-images.githubusercontent.com/69255270/114343214-4daf9000-9b12-11eb-9ba2-fb9f0e9e74a0.png">
 - Without Thomas 9th grade
 <img width="880" alt="district 2" src="https://user-images.githubusercontent.com/69255270/114343218-50aa8080-9b12-11eb-9bf4-d6c4e0621929.png">
 
+### How is the school summary affected?
+<img width="876" alt="school district" src="https://user-images.githubusercontent.com/69255270/114345425-8c474980-9b16-11eb-913d-9ad0f248d1fb.png">
 
-    
-How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+## Summary: 
+Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+1. 
 
