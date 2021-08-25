@@ -45,5 +45,5 @@ As we can see in the picture above the overall score includig math and readinf s
 ## Summary: 
 Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 1. The percentage of math score went up
-2. the percentage of reading score went up
+2. The percentage of reading score went up
 
