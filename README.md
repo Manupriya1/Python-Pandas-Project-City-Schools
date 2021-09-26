@@ -1,5 +1,4 @@
-# UCB-Python-Pandas-Project
-## School district analysis with Python using Jupyter Notebook
+# School district analysis with Python using Jupyter Notebook
 
 ## Overview of the school
 I used Pandas and Numpy libraries on Jupyter notebook to analyze school distric data. I used prescarpped datasets. One data set presented students information with their reading and math scores and other data set presented information about schools and the budget allocation to them. As it turned out that one of the schools - Thomas High School has their ninth graders scores altered, so in this analysis the following data has been dropped. 
